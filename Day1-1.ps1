@@ -15,8 +15,3 @@ While ($current -le $maxlines) {
     $previous++
 }
 $TotalLargerMeasurements
-
-
-$current = 5
-$previous = 2
-$TotalLargerMeasurements = 0
